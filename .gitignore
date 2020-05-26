@@ -1,5 +1,6 @@
 *.pyc
 DataTweet/
 cache/
+.idea/
 .ipynb_checkpoints/
 .DS_Store
