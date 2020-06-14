@@ -9,5 +9,21 @@ We used crowdsourcing to build a new realistic dataset of data visualisations, c
 
 In a Unix shell environment execute: `sh download_DataTweet.sh` in order to download and uncompress the resulting corpus in its corresponding folder (i.e. `DataTweet`).
 
+## BibTeX
+Please cite the following paper should you use this repository in your work.
+```
+@Article{Vougiouklis_Carr_Simperl_2020,
+  author       = {Vougiouklis, Pavlos and Carr, Leslie and Simperl, Elena},
+  journal      = {Proceedings of the International AAAI Conference on Web and Social Media},
+  title        = {Pie Chart or Pizza: Identifying Chart Types and Their Virality on Twitter},
+  year         = {2020},
+  month        = {May},
+  number       = {1},
+  pages        = {694-704},
+  volume       = {14},
+  url          = {https://www.aaai.org/ojs/index.php/ICWSM/article/view/7335},
+}
+```
+
 ## License
 This project is licensed under the terms of the Apache 2.0 License.
